@@ -1,5 +1,8 @@
 # A stupidly simple Wander generator
-Ever felt a burning desire to generate some ***Wanderbrauns*** yourself? Excellent! This is the toolchain for you.
+Ever felt a burning desire to generate some ***Wanderbrauns*** yourself? Excellent! This is the toolchain for you.  
+
+---
+The core library used: [Mosaic by CodeBox](https://github.com/codebox/mosaic).
 
 ## Examples
 ![wander_young](wander_young.jpg)
