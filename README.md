@@ -47,7 +47,7 @@ Otherwise, here are the simple instructions for you.
     - type in `py -m install requests` and press Enter
     - type in `py -m install Pillow` and press Enter
 4. Download the thumbnails if you don't have them yet:
-    - get [YouTube Data API v3](https://developers.google.com/youtube/v3/docs)
+    - get [YouTube Data API v3](https://developers.google.com/youtube/v3/docs) key
     - open cmd
     - navigate to the project folder (google how to)
     - run `py main.py`
