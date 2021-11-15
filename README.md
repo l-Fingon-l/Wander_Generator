@@ -22,7 +22,7 @@ Ever felt a burning desire to generate some ***Wanderbrauns*** yourself? Excelle
 <details>
 <summary>Just Wander</summary>
 
-![wander](wander.gpj)
+![wander](wander.jpg)
 </details>
 
 ---
