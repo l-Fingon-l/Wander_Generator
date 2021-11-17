@@ -11,7 +11,7 @@ def get_thumbnails(channel_id, img_path):
     first_url = base_search_url+'key={}&channelId={}&part=snippet,id&order=date&maxResults=25'.format(api_key, channel_id)
 
     url = first_url
-    name_id = 501
+    name_id = 1
     while True:
         resp = requests.get(url).json()
 
