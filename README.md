@@ -9,27 +9,27 @@ The core library used: [Mosaic by CodeBox](https://github.com/codebox/mosaic).
 <details>
 <summary><b>A couple of example mosaics</b></summary>
     
-![wander_young](wander_young.jpg)
+![wander_young](generated_images/wander_young.jpg)
 
 ---
 <details>
 <summary>High-Quality Wander-Young </summary>
 
-![wander_young_hq](wander_young_hq.jpg)
+![wander_young_hq](generated_images/wander_young_hq.jpg)
 </details>
 
 ---
 <details>
 <summary>Wander-Acolyte. Or just an orthodoxal icon, idk</summary>
 
-![wander_acolyte](wander_acolyte.jpg)
+![wander_acolyte](generated_images/wander_acolyte.jpg)
 </details>
 
 ---
 <details>
 <summary>Just Wander</summary>
 
-![wander](wander.jpg)
+![wander](generated_images/wander.jpg)
 </details>
 
 ---
