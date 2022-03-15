@@ -6,6 +6,9 @@ All of the images used as building blocks for generation are thumbnails of Wande
 The core library used: [Mosaic by CodeBox](https://github.com/codebox/mosaic).
 
 ## Examples
+<details>
+<summary><b>A couple of example mosaics</b></summary>
+    
 ![wander_young](wander_young.jpg)
 
 ---
@@ -30,6 +33,8 @@ The core library used: [Mosaic by CodeBox](https://github.com/codebox/mosaic).
 </details>
 
 ---
+</details>
+
 Check out the others in the repository file list as well!
 ## How to
 In case you ***do*** know what you do, you'll be fine.  
